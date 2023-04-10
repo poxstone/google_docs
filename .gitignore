@@ -1,0 +1,6 @@
+*.pyc
+*.sw[wmnop]
+*.json
+venv/
+token*
+credential*
